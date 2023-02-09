@@ -1,2 +1,2 @@
 #!/bin/bash
-chown owner_hello_betty
+chown betty hello
